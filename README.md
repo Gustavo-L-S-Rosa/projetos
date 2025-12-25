@@ -1,4 +1,10 @@
 # projetos
 
-Repositório destinado aos meus projetos pessoais e de estudo.
-Projetos serão adicionados conforme meu avanço nos estudos.
+Repositório criado para organizar meus estudos em programação.
+
+## Conteúdos
+- Backend (JavaScript)
+- Lógica de programação
+- Lua / Luau (Roblox)
+- Exercícios e desafios
+
